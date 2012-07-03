@@ -1,0 +1,8 @@
+export(deamer, deamer.default, deamerKE, deamerSE, deamerRO, mise, dlaplace, rlaplace)
+S3method(print, deamer)
+S3method(plot, deamer)
+S3method(lines, deamer)
+S3method(predict, deamer)
+S3method(deamer, default)
+
+
